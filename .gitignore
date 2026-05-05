@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment / secrets
+.env
+*.env
+
+# Hugging Face / model caches
+.cache/
+huggingface/
+models/
+
+# Benchmark outputs that may be regenerated
+reports/tmp/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local Codex / agent tooling
+.agents/
+.codex/
