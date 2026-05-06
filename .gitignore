@@ -25,3 +25,9 @@ reports/tmp/
 # Local Codex / agent tooling
 .agents/
 .codex/
+
+# Local smoke-test benchmark output
+results/test.csv
+
+# Local notes not intended for GitHub
+local_notes/
